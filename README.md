@@ -2,7 +2,7 @@
 
 > security infrastructure · automation · things that leave logs
 
-I work around security. Most of what I build is aimed at making work easier to repeat, easier to review, and less dependent on memory at 2am.
+I work around security.
 
 This GitHub is a mix of scripts, notes, experiments, lab work, and small tools. Some things are polished. Some are rough...most are rough.
 
@@ -20,15 +20,6 @@ observe
 ```
 
 I like small, inspectable tools that do one thing clearly.
-
-Good systems should be:
-
-* observable
-* repeatable
-* versioned
-* boring where it matters
-* explicit about failure
-* easy to debug under pressure
 
 ## Repositories here may include
 
@@ -50,7 +41,7 @@ readable > magical
 least privilege > convenience
 ```
 
-I prefer plain text, Git history, small scripts, clear runbooks, and tools that can be understood without a ritual.
+I prefer plain text, small scripts.
 
 ## Notes
 
