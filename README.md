@@ -16,7 +16,7 @@ This GitHub is a mix of scripts, notes, experiments, lab work, and small tools. 
 ## Current focus
 
 ```text
-devsecops
+DevSecOps
 ```
 
 I like small, inspectable tools that do one thing clearly.
