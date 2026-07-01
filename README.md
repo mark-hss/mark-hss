@@ -1,17 +1,16 @@
 # ¯＼(º_o)/¯
 
-> security infrastructure · automation · things that leave logs
+> security · coding · things that leave logs
 
 I work around security.
 
-This GitHub is a mix of scripts, notes, experiments, lab work, and small tools. Some things are polished. Some are rough...most are rough.
+This GitHub is a mix of scripts, notes, experiments and small tools. Some things are polished. Some are rough...most are rough.
 
 ## Areas of interest
 
-* Wazuh, auditd, syslog, Nagios, Cricket
-* Check Point, CloudGuard, VPNs, firewalls, and routing
-* Linux systems, shell environments, and small automation
-* Ruby, Bash, Go
+* Monitoring, Detection
+* Linux systems, shell environments, and tiny little scripts
+* Ruby, Bash, Go, Ansi C
 
 ## Current focus
 
@@ -19,14 +18,13 @@ This GitHub is a mix of scripts, notes, experiments, lab work, and small tools. 
 DevSecOps
 ```
 
-I like small, inspectable tools that do one thing clearly.
+I like small, inspectable code that does one thing clearly.
 
 ## Repositories here may include
 
 * Security and infrastructure scripts
 * Monitoring and detection notes
-* DevSecOps / policy-as-code examples
-* Check Point and CloudGuard helpers
+* DevSecOps 
 * Linux and shell tooling
 * Ruby/Bash/Go utilities
 * Lab notes from systems that probably had a blinking LED nearby
@@ -34,20 +32,13 @@ I like small, inspectable tools that do one thing clearly.
 ## Working style
 
 ```text
-simple > clever
-logs > guesses
-repeatable > manual
-readable > magical
-least privilege > convenience
+7-bit ASCII wrapped to 76 columns OR Markdown UTF-8
 ```
-
-I prefer plain text, small scripts.
 
 ## Notes
 
 This space is part workshop, part notebook, part archive.
 
-Use what helps. Question what looks strange. Improve what can be improved.
 👋
 
 <!--
