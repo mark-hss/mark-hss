@@ -10,7 +10,7 @@ This GitHub is a mix of scripts, notes, experiments and small tools. Some things
 
 * Monitoring, Detection
 * Linux systems, shell environments, and tiny little scripts
-* Ruby, Bash, Go, Ansi C
+* Ruby, Shell, Go, Ansi C
 
 ## Current focus
 
@@ -24,10 +24,10 @@ I like small, inspectable code that does one thing clearly.
 
 * Security and infrastructure scripts
 * Monitoring and detection notes
-* DevSecOps 
+* DevSecOps stuff 
 * Linux and shell tooling
 * Ruby/Bash/Go utilities
-* Lab notes from systems that probably had a blinking LED nearby
+* Notes from systems that probably had a blinking LED nearby
 
 ## Working style
 
