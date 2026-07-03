@@ -9,7 +9,7 @@ This GitHub is a mix of scripts, notes, experiments and small tools. Some things
 ## Areas of interest
 
 * Monitoring, Detection
-* Linux systems, shell environments, and tiny little scripts
+* Linux, shell and tiny little scripts
 * Ruby, Shell, Go, Ansi C
 
 ## Current focus
