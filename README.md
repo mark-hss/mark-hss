@@ -10,12 +10,12 @@ This GitHub is a mix of scripts, notes, experiments and small tools. Some things
 
 * Monitoring, Detection
 * Linux, shell and tiny little scripts
-* Ruby, Shell, Go, Ansi C
+* Ruby, Go, Shell, Ansi C
 
 ## Current focus
 
 ```text
-DevSecOps
+Gleam
 ```
 
 I like small, inspectable code that does one thing clearly.
