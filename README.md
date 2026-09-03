@@ -15,7 +15,7 @@ This GitHub is a mix of scripts, notes, experiments and small tools. Some things
 ## Current focus
 
 ```text
-Gleam
+UART r00t shellz
 ```
 
 I like small, inspectable code that does one thing clearly.
