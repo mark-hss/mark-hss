@@ -4,23 +4,23 @@
 
 I work around security.
 
-This GitHub is a mix of scripts, notes, experiments and small tools. Some things are polished. Some are rough...most are rough.
+This GitHub is a mix of scripts, notes, experiments and small tools. all coded poorly.
 
-## Areas of interest
+## Areas of focus
 
-* Monitoring, Detection
+* Breaking things
 * Linux, shell and tiny little scripts
 * Ruby, Go, Shell, Ansi C
 
-## Current focus
+## Currently working on
 
 ```text
-UART r00t shellz
+12C
 ```
 
-I like small, inspectable code that does one thing clearly.
+keep it small, readable and focused.
 
-## Repositories here may include
+## Repositories overview
 
 * Security and infrastructure scripts
 * Monitoring and detection notes
@@ -37,7 +37,7 @@ I like small, inspectable code that does one thing clearly.
 
 ## Notes
 
-This space is part workshop, part notebook, part archive.
+This is part scrapbook, part notebook, part archive.
 
 👋
 
