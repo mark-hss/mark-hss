@@ -15,7 +15,7 @@ This GitHub is a mix of scripts, notes, experiments and small tools. all coded p
 ## Currently working on
 
 ```text
-12C
+i2C
 ```
 
 keep it small, readable and focused.
